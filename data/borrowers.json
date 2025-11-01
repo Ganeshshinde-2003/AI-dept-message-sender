@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Nijar",
+    "email": "sindheganesh2004@gmail.com",
+    "phone": "+919380247969",
+    "outstandingAmount": 50000
+  },
+  {
+    "id": 2,
+    "name": "Anupam",
+    "email": "sindheganesh2004@gmail.com",
+    "phone": "+919380247969",
+    "outstandingAmount": 1200000
+  }
+]
